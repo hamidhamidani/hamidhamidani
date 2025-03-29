@@ -2,12 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hi, I'm Klod! # the website title (if blank, full name will be used instead)
-first_name: Bovornpratch
+title: Hi, I'm Hamid! # the website title (if blank, full name will be used instead)
+first_name: Hamid
 middle_name: 
-last_name: Vijarnwannaluk
-email: bkvijarnwannaluk@asiaa.sinica.edu.tw
+last_name: Hamidani
+email: hhamidani@astr.tohoku.ac.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  I'm a theoretical astrophysicist studying relativistic jets, gamma-ray bursts (GRBs), and their interaction with circumstellar environments.
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -16,10 +17,10 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ☕️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔭  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://bovornpratch.github.io # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/
+url: https://hamidhamidani.github.io # the base hostname & protocol for your site
+baseurl: "" #/ # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -67,13 +68,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: #hamidhamidani # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: VKlodius # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: K_jSQb4AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0003-2866-4522 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -94,7 +95,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
- If you want to reach me, send me an email or slide into my twitter DM!
+ If you want to reach me, send me an email!
   
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -112,7 +113,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title:   # your blog must have a title for it to be displayed in the nav bar
-blog_description: Short Blog Updates of Progess
+blog_description: ...
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -229,9 +230,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: [Vijarnwannaluk]
-  first_name: [Bovornpratch]
+  last_name: [Hamidani]
+  first_name: [Hamid]
 
   style: apa
   locale: en
