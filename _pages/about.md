@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: ?.jpeg
+  image: Hamid.png
   image_circular: false # crops the image to make it circular
   address: >
     <p> Astronomical Institute, Tohoku University
