@@ -6,7 +6,7 @@ description: ...
 img: assets/img/Resources.jpg
 importance: 8
 nav_order: 3
-nav: true
+nav: false
 category: work
 ---
 
