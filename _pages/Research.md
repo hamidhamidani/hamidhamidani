@@ -4,7 +4,7 @@ title: Research
 description: Active Galactic Nuclei, Supermassive Black Holes, and Galaxy Evolution
 nav_order: 1
 importance: 2
-nav: false
+nav: true
 category: work
 ---
 
