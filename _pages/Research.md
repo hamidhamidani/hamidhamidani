@@ -8,7 +8,7 @@ nav: true
 category: work
 ---
 
-My research focuses on stellar cataclysmic events such as neutron star mergers and gamma-ray bursts (GRBs). In particular, I study the dynamics of astrophysical jets launched by these explosive phenomena and their electromagnetic counterparts. Below is a summary of selected projects.
+My research focuses on stellar cataclysmic events such as neutron star mergers and gamma-ray bursts (GRBs). In particular, I study the dynamics of astrophysical jets launched by these explosive phenomena and their electromagnetic counterparts. Below is a summary of my work (intended for a non-expert reader).
 
 ---
 
@@ -19,30 +19,27 @@ My research focuses on stellar cataclysmic events such as neutron star mergers a
 - **CSM** — Circumstellar Material
 - **KN** — Kilonova
 - **LGRB** — Long Gamma-Ray Burst
+- **SGRB** — Short Gamma-Ray Burst
 - **r-process** — Rapid Neutron Capture Process
-- **UV** — Ultraviolet
-- **2D** — Two Dimensional (simulation)
 
 ---
 
----
-
-### An Explanation for the Mysterious Explosion *EP240414a*  
+### A Scenario to Explain the Mysterious *EP240414a*  
 #### <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250316243H/abstract" target="_blank">Hamidani et al. 2024b</a>
 
-*EP240414a* is a unique explosion discovered by the Einstein Probe mission, displaying features that deviate from standard GRBs. In this work, I proposed that these peculiarities can be naturally explained by a jet that was significantly weakened by interaction with extended circumstellar material (CSM).
+*EP240414a* is an explosion discovered by the Einstein Probe mission, displaying features that deviate from standard GRBs. In this work, we proposed that these peculiarities can be naturally explained by a jet that was significantly weakened by interaction with extended circumstellar material (CSM). Our work highlights the importance of the CSM in shaping GRB jets.
 
 <div class="row justify-content-center">
   <div class="col-md-6 mb-3">
-    {% include figure.html path="assets/img/EP240414a_image1.png" title="The Scenario" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/P9a.png" title="The Scenario" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-md-6 mb-3">
-    {% include figure.html path="assets/img/EP240414a_image2.png" title="Model vs. Observations" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/P9b.png" title="Model vs. Observations" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption text-center">
-  <i>Left:</i> A schematic showing a weak jet interacting with extended CSM.  
-  <i>Right:</i> Comparison of observational data (circles/triangles) with the model (solid line).
+  <i>Left:</i> A schematic showing our scenario for EP240414a.  
+  <i>Right:</i> Comparison of observational data (circles, and triangles for upper limits) with our model (solid line).
 </div>
 
 ---
@@ -50,11 +47,11 @@ My research focuses on stellar cataclysmic events such as neutron star mergers a
 ### GRB Jet Propagation in Circumstellar Material — Solved Analytically  
 #### <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250316242H/abstract" target="_blank">Hamidani et al. 2024a</a>
 
-This work presents a general analytic model for GRB jet propagation through extended CSM. I explored how the jet's ability to break out—and the nature of the resulting transient—depend on CSM properties, identifying conditions for successful or choked jets and linking to the diversity of observed transients.
+This work presents a generalized analytic model for GRB jet propagation through extended CSM. We used the analytic model to explore how the CSM properties shape the jet, identifying conditions for successful/failed jets and linking them to the diversity of observed transients.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/CSMmap.png" title="Diversity of Transients" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/P8.png" title="Diversity of Transients" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption text-center">
@@ -66,71 +63,23 @@ This work presents a general analytic model for GRB jet propagation through exte
 ### GRB 211211A: Engine-powered vs. r-process-powered Kilonova  
 #### <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...971L..30H/abstract" target="_blank">Hamidani et al. 2024</a>
 
-We argue that the blue emission in GRB 211211A cannot be explained by r-process heating alone. Instead, our model suggests that late-time energy injection from a central engine offers a more consistent explanation of its properties.
+Kilonovae (KNe) are transients powered by the radioactive heating of freshly synthesized r-process elements. We found that the early emission in GRB 211211A cannot be explained by r-process heating alone. Instead, late-time energy injection from the central engine provides a more consistent explanation for its observed properties.
 
-{% include figure.html path="assets/img/GRB211211A.png" title="Blue kilonova model for GRB 211211A" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/P7a.png" title="Blue kilonova model for GRB 211211A" class="img-fluid rounded z-depth-1" %}
 <div class="caption text-center">
   Engine-powered model better fits the observed light curves of GRB 211211A.
 </div>
 
 ---
 
-### Late Engine Activity and Its Cocoon  
+### Late Engine Activity and Neutron Star Mergers  
 #### <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...963..137H/abstract" target="_blank">Hamidani et al. 2024</a>
 
-This work investigates how prolonged engine activity in neutron star mergers can inflate a cocoon that produces blue kilonova-like emission. We provide predictions for associated X-ray signals and suggest this may explain the early light in GW170817.
+Observations suggest that central engine activity can persist well beyond the prompt GRB emission. In this work, we investigated the observable signatures of such late-time engine activity in neutron star mergers, via analytic modeling of the late-time engine jet. I provided predictions for the resulting X-ray to optical emission, which will help us understand the GRB central engine and the nature of the merger remnant from future observations.
 
-{% include figure.html path="assets/img/late_engine.png" title="Cocoon from late engine activity" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/P6a.png" title="Cocoon from late engine activity" class="img-fluid rounded z-depth-1" %}
 <div class="caption text-center">
-  Blue emission produced by engine-driven cocoon expanding into the ejecta.
-</div>
-
----
-
-### Cocoon Cooling Emission from BNS Mergers  
-#### <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.4841H/abstract" target="_blank">Hamidani & Ioka 2023</a>
-
-We modeled the cooling emission from post-breakout cocoons in neutron star mergers, showing they can generate bright, short-lived blue/UV transients—relevant for future multi-messenger detections.
-
-{% include figure.html path="assets/img/cocoon_cooling.png" title="Cooling emission from cocoon" class="img-fluid rounded z-depth-1" %}
-<div class="caption text-center">
-  Simulated light curves from cocoon cooling in neutron star mergers.
-</div>
-
----
-
-### Cocoon Breakout and Escape  
-#### <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.1111H/abstract" target="_blank">Hamidani & Ioka 2023</a>
-
-This study investigated the conditions under which a cocoon can break out and escape from merger ejecta, producing fast-moving blue emission. The results constrain the viewing angle and energetics of observed transients.
-
-{% include figure.html path="assets/img/cocoon_breakout.png" title="Breakout of cocoon from ejecta" class="img-fluid rounded z-depth-1" %}
-<div class="caption text-center">
-  Shock breakout and cocoon dynamics visualized in 2D simulations.
-</div>
-
----
-
-### Jet Propagation in Expanding Media  
-#### <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.500..627H/abstract" target="_blank">Hamidani & Ioka 2021</a>
-
-This work analyzed how GRB jets behave when propagating through expanding ejecta. We derived new criteria for breakout success and found that such environments can suppress jet luminosity and delay emission.
-
-{% include figure.html path="assets/img/jet_expanding.png" title="Jet in expanding medium" class="img-fluid rounded z-depth-1" %}
-<div class="caption text-center">
-  Jet propagation path through radially expanding merger ejecta.
-</div>
-
----
-
-### Ideal Engine Durations for GRB Jet Launch  
-#### <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.469.2361H/abstract" target="_blank">Hamidani et al. 2017</a>
-
-We identified the optimal timescale for engine activity to ensure the successful launch of jets in collapsars. Short engines fail to penetrate the star; overly long engines are inefficient. The results have implications for LGRB central engine modeling.
-
-{% include figure.html path="assets/img/engine_duration.png" title="Optimal engine duration" class="img-fluid rounded z-depth-1" %}
-<div class="caption text-center">
-  Relationship between engine duration, jet breakout time, and success probability.
+  Schematic picture of emission produced by a late-engine jet, modeled analytically.
 </div>
 
 ---
