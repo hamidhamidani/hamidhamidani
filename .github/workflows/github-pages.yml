@@ -1,21 +1,21 @@
-name: Build and Deploy Jekyll Site
+name: Build and Deploy Jekyll
 
 on:
   push:
-    branches:
-      - master  # or main, depending on your setup
+    branches: [ master ]
 
 permissions:
   contents: write
 
 jobs:
-  jekyll:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Setup Ruby
+      - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.0
@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: bundle install
 
-      - name: Build site with Jekyll
+      - name: Build site
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
