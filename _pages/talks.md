@@ -8,7 +8,7 @@ nav_order: 5  # Adjust as needed
 importance: 5
 ---
 
-### 🎤 Invited Talks
+### Invited Talks
 
 - **Feb 2025** — *"LGRB Jets in Extended CSMs: Analytic Modeling and Recent Events"*  
   Invited to speak at Exploring the Evolution of the Universe through Relativistic Phenomena V (相対論的現象で探る宇宙の進化Ⅴ), Awaji Island, Hyogo, Japan
@@ -22,7 +22,7 @@ importance: 5
 - **Jul 2019** — *“Jet Propagation and Cocoon Emission in Neutron Star Mergers and GW170817”*  
   Invited to speak at Japan–Israel High-Energy Astrophysics Workshop, organized by RIKEN, Wako/Kobe Campuses, Japan
 
-### 🎤 Seminars
+### Seminars
 
 - **Jun 2023** — *“Cocoon Emission in Neutron Star Mergers”*  
   Seminar at RESCEU, University of Tokyo, Japan
@@ -45,7 +45,7 @@ importance: 5
 - **Feb 2016** — *“How to Explain Low-Luminosity GRBs with the Collapsar Model?”*  
   Seminar at the Research Center for the Early Universe (RESCEU), University of Tokyo, Japan
 
-### 🗣️ Contribution Talks
+### Contribution Talks
 
 - **Apr 2025** — *"Gamma-Ray Burst Jets in Circumstellar Material: Dynamics, Breakout, and Diversity of Transients"*  
   RESCU Workshop, The University of Tokyo, Japan
@@ -92,7 +92,7 @@ importance: 5
 - **May 2018** — *“A Numerical Explanation of Low Luminosity GRBs’ High Rate in the Local Universe”*  
   Jet and Shock Breakouts in Cosmic Transients, YITP, Kyoto University, Japan
 
-### 🎤 Other Talks
+### Other Talks
 
 - **Nov 2024** — *“EP240414a: The tail/tale of a LGRB jet?”*  
   Supernova/Transient workshop 2024, Fukushima, Japan
