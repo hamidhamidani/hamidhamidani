@@ -80,7 +80,7 @@ importance: 5
 - **Sep–Oct 2019** — *“Jet Propagation and Cocoon Emission in Neutron Star Mergers and GW170817”*  
   YITP Long-term Workshop: Multi-Messenger Astrophysics in the Gravitational Wave Era, YITP, Kyoto University, Japan
 
-  - **Nov 2018** — *“Hunting GW170817’s Dark Horse”*  
+- **Nov 2018** — *“Hunting GW170817’s Dark Horse”*  
   Second Annual Symposium of the Innovative Area “Gravitational Wave Physics and Astronomy: Genesis”, YITP, Kyoto University, Japan
 
 - **May 2019** — *“Beyond r-process: The Cocoon Emission in the Early Macronova in GW170817”*  
